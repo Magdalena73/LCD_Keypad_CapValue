@@ -1,8 +1,9 @@
-/*********************
 
-Initial code: Example code for the Adafruit RGB Character LCD Shield and Library
-
-**********************/
+/***** Program for the blog: *****
+**** https://mstronik.blog/2019/09/17/lcd-keypad_menu-to-obtain-capacitance-value/ ****
+**** Menu asks for required frequency and used inductance to calculate the required capacitance ****
+**** aproximating to the implemented values of the capacitor bank ****
+**** Magdalena Vaclavek ****/
 
 // include the library code:
 #include <Adafruit_RGBLCDShield.h>
